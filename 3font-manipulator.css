@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+.title {
+    font-family: 'Yeseva One', cursive;
+}
+
+h1 {
+    letter-spacing: 3px;
+    font-size: 64px !important;
+}
+
+p {
+    font-size: 24px;
+}
+
+span {
+    font-size: 24px;
+}
+
+#copyright {
+    position: fixed;
+    bottom: 0;
+    background-color: blue;
+    color: white;
+    text-align: center !important;
+    width: 100%;
+}
+
+canvas {
+    border-radius: 120px;
+    border: double blue;
+    background-color: rgb(249, 213, 121);
+    box-shadow: 10px 10px 10px rgb(249, 213, 121);
+    border-width: 10px;
+    white-space: pre;
+}

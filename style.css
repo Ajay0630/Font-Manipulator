@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(153, 152, 152);
+}
+h1 {
+    font-size: 60px !important;
+}
+.lead {
+    font-weight: bold;
+}
+.hihi {
+    margin-left: 40px;
+    width: 90% !important;
+}
+label {
+    margin-left: 40px;
+}
+select {
+    margin-left: 40px;
+    width: 90% !important;
+}
+button {
+    margin-left: 40px;
+    margin-right: 80px;
+    font-weight: bold !important;
+}
+html {
+    overflow: hidden;
+}
